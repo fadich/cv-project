@@ -11,7 +11,7 @@ export default {
   name: 'Projects',
   data () {
     return {
-      projects: projects  // window.projects
+      projects: window.projects
     }
   },
   components: {
