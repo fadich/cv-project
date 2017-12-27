@@ -12,7 +12,7 @@
 
     <div class="row">
       <div class="col-md-12">
-        <p>{{ project.description }}</p>
+        <p v-html="project.description"></p>
       </div>
     </div>
     <hr>

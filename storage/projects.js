@@ -31,7 +31,7 @@ window.projects = [
         frame: false
       }
     ],
-    description: 'Atrics is ...'
+    description: 'Atrics is .. <h1>qweqweqw</h1>.'
   },
 
   // ...

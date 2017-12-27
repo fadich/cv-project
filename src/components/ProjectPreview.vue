@@ -39,6 +39,7 @@
     .frame {
       width: 100%;
       height: 40vh;
+      min-height: 340px;
       overflow: hidden;
       border: 1px solid #CCCCCC;
       -moz-transform: scale(1.0);
